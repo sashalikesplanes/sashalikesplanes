@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sashalikesplanes
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Deep Learning Specialization and FastAI
-- 💞️ I’m looking to collaborate on anything AI related
+- 👀 I’m interested becoming a Software Engineer
+- 🌱 I’m currently studying at Launch School
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me sdkiselev1812@gmail.com
 
 <!---
