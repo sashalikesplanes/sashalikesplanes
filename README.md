@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashalikesplanes
 - 👀 I’m an Engineer building the future
-- 🌱 I’m currently studying at Launch School
+- 🌱 I’m currently fighting for justice at Appjection
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me sdkiselev1812@gmail.com
 
