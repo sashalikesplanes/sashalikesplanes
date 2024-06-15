@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sashalikesplanes
-- 👀 I’m an Engineer building the future
-- 🌱 I’m currently fighting for justice at Appjection
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m an Engineer creating the future
+- 🌱 Busy with payments at Fung
 - 📫 How to reach me sdkiselev1812@gmail.com
 
 <!---
