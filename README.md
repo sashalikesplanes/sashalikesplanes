@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashalikesplanes
-- 👀 I’m an Engineer creating the future
-- 🌱 Busy with payments at Fung
+- 👀 I’m an Engineer building the future
+- 💸 Currently making money go around the world at Fung
 - 📫 How to reach me sdkiselev1812@gmail.com
 
 <!---
